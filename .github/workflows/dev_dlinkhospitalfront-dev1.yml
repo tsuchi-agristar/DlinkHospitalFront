@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'DlinkHospitalFront-dev1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9273D433C2E44D7A21EE0445CF23EC7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18092726A0984A589EE88899DA88F297 }}
           package: .
